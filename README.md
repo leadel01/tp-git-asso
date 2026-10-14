@@ -56,7 +56,6 @@ Ouvrir une Pull Request sur GitHub. Les modifications sont relues avant d'être 
 Projet réalisé dans le cadre du TP Git.
 
 Membre	Rôle
-Chloé LE DU	style (ex. HTML, CSS, relecture, documentation)
-Prénom Nom	Rôle
-
-À compléter avec les membres de l'équipe et leurs rôles.
+Chloé Readme
+Léa Index
+Manon style
